@@ -12,5 +12,5 @@ https://zhuanlan.zhihu.com/p/378766432
 3.更新驱动  
 http://www.nvidia.com/Download/index.aspx  
 
-4. 运行DEMO. 注意下载测试视频1.mp4,以及如果是CPU，把half()改为float()    
+4.运行DEMO. 注意下载测试视频1.mp4,以及如果是CPU，把half()改为float()    
 https://blog.csdn.net/m0_51931246/article/details/123536233  
