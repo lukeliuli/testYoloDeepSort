@@ -15,4 +15,5 @@ http://www.nvidia.com/Download/index.aspx
 4.运行DEMO. 注意下载测试视频1.mp4,以及如果是CPU，把half()改为float() 
 git clone  https://github.com/ultralytics/yolov5.git
 git clone https://github.com/Sharpiless/Yolov5-Deepsort.git
+pip install easydict
 https://blog.csdn.net/m0_51931246/article/details/123536233  
