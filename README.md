@@ -16,4 +16,6 @@ http://www.nvidia.com/Download/index.aspx
 git clone  https://github.com/ultralytics/yolov5.git  
 git clone https://github.com/Sharpiless/Yolov5-Deepsort.git  
 pip install easydict  
+代码修改:
+self.update(yaml.load(fo.read(),Loader=yaml.FullLoader))  
 https://blog.csdn.net/m0_51931246/article/details/123536233    
